@@ -9,7 +9,6 @@ This is a modern single-page application built with **React.js**. It follows a c
 A simple, modular, and scalable **React.js** web application.  
 All reusable UI components are stored in `src/components/`, and all static assets (logos, icons) are under `public/utils/`.
 
-![Logo](./public/utils/logo192.png)
 
 </div>
 
