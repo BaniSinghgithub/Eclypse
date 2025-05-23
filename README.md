@@ -2,34 +2,45 @@
 
 This is a modern single-page application built with **React.js**. It follows a component-based architecture and uses responsive design principles. All reusable UI components are located in the `src/components/` folder, and public assets such as images and icons are in `public/utils/`.
 
+<div align="center">
+
+# ⚛️ React Web Application
+
+A simple, modular, and scalable **React.js** web application.  
+All reusable UI components are stored in `src/components/`, and all static assets (logos, icons) are under `public/utils/`.
+
+![Logo](./public/utils/logo192.png)
+
+</div>
+
 ---
 
 ## 📁 Project Structure
 
+```bash
 ├── public/
-│ ├── utils/
-│ │ ├── favicon.ico
-│ │ ├── logo192.png
-│ │ └── logo512.png
-│ ├── index.html
-│ ├── manifest.json
-│ └── robots.txt
+│   ├── utils/
+│   │   ├── favicon.ico
+│   │   ├── logo192.png
+│   │   └── logo512.png
+│   ├── index.html
+│   ├── manifest.json
+│   └── robots.txt
 ├── src/
-│ ├── components/
-│ │ └── [Your UI Components]
-│ ├── App.js
-│ ├── App.css
-│ ├── index.js
-│ ├── index.css
-│ ├── logo.svg
-│ ├── setupTests.js
-│ ├── reportWebVitals.js
-│ └── App.test.js
+│   ├── components/
+│   │   └── [Your UI Components]
+│   ├── App.js
+│   ├── App.css
+│   ├── App.test.js
+│   ├── index.js
+│   ├── index.css
+│   ├── logo.svg
+│   ├── setupTests.js
+│   └── reportWebVitals.js
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
 └── README.md
-
 
 ---
 
